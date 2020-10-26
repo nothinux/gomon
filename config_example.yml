@@ -1,0 +1,9 @@
+
+database:
+  influxdb:
+    host: "127.0.0.1"
+    port: "8086"
+    username: ""
+    password: ""
+    database: ""
+    retention_policy: ""
